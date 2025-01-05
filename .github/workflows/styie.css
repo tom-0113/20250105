@@ -1,0 +1,25 @@
+img{
+    width: 425px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    
+}
+
+.a{
+    width: 200px;
+    border: 1px solid black;
+    margin: 0px auto;
+    
+    
+}
+.a:hover{
+    background-color: rgb(255, 188, 19);
+}
+.a p{
+    text-align: center;
+    color: black;
+}
+a{text-decoration: none;}
